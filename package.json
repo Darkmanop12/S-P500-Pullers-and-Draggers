@@ -1,7 +1,7 @@
 {
   "name": "pullers-draggers",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "description": "Real-time S&P 500 Index Contribution Engine — identify which stocks are pushing the index up (Pullers) or dragging it down (Draggers)",
   "scripts": {
